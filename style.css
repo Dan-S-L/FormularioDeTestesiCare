@@ -1,0 +1,15 @@
+*{
+text-align: center;
+}
+.Cabecalho,.Rede,.Audio,
+.UI-1,.UI-2,.Multimidia,.Carregamento,.Carcaca,
+.cargaDeCrecente,.consumoDeCorrente{
+    background-color: red;
+    border-right: auto;
+    border-width: 10vw;
+    margin: 2vw;
+    
+}
+label{
+    font-size: 2vh;
+}
